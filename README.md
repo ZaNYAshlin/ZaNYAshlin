@@ -1,4 +1,12 @@
 ### Hi there 👋
+### print("Hello world!")
+
+------
+About:
+
+* Language: Python🐍
+
+* LVL: 0
 
 <!--
 **ZaNYAshlin/ZaNYAshlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
