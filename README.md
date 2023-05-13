@@ -6,7 +6,7 @@ About:
 
 * Languages: English🇺🇲🇬🇧 (not ideal), Russian🇷🇺 (my native)
 
-* LVL: 0
+* LVL: very simple python cli scripts
 
 <!--
 **ZaNYAshlin/ZaNYAshlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
