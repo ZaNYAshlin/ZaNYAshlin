@@ -1,7 +1,5 @@
-### Hi there 👋
-### print("Hello world!")
+### print("Hi there 👋")
 
-------
 About:
 
 * Programming Language: Python🐍 (currently learning)
