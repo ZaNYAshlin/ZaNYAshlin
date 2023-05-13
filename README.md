@@ -4,9 +4,9 @@
 ------
 About:
 
-* Programming Language: Python🐍
+* Programming Language: Python🐍 (currently learning)
 
-* Languages: English (not ideal), Russian (my native)
+* Languages: English🇺🇲🇬🇧 (not ideal), Russian🇷🇺 (my native)
 
 * LVL: 0
 
