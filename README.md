@@ -4,7 +4,9 @@
 ------
 About:
 
-* Language: Python🐍
+* Programming Language: Python🐍
+
+* Languages: English (not ideal), Russian (my native)
 
 * LVL: 0
 
