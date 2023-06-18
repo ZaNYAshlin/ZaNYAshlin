@@ -2,7 +2,7 @@
 
 About:
 
-* Programming Language: Python🐍 (currently learning)
+* Programming Language: Python🐍 (beginner, currently learning)
 
 * Languages: English🇺🇲🇬🇧 (not ideal), Russian🇷🇺 (my native)
 
